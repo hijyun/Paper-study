@@ -9,5 +9,5 @@
 | 8th March, 2023 | [Unsupervised Anomaly Detection with Generative Adversarial Networks to Guid Marker Discovery](https://arxiv.org/abs/1703.05921) | [MinJae Song](https://github.com/Jjackson-dev) | [Slide](https://docs.google.com/presentation/d/15GWlLfkGXtDVewLN_2a0OENGnumpPg_n/edit?usp=share_link&ouid=108260106202789518742&rtpof=true&sd=true) | 
 | 15th March, 2023 | []() | [ChangHoon Lee]() | [Slide]() | 
 | 22th March, 2023 | []() | [Gijun Park]() | [Slide]() | 
-| 29th March, 2023 | []() | [Yongshin Kim]() | [Slide]() | 
+| 29th March, 2023 | [Word Embedding](https://arxiv.org/abs/1301.3781) | [Yongshin Kim](https://github.com/yong-shin) | [Slide](https://docs.google.com/presentation/d/1A983J-PIrmRCsKLU-UUurGLyoTD7u6Jv43u6Z45Azt8/edit#slide=id.ga6b09fafa8_0_5) | 
 | 29th March, 2023 | []() | [Sangyong Lee]() | [Slide]() | 
