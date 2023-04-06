@@ -10,4 +10,4 @@
 | 15th March, 2023 | []() | [ChangHoon Lee]() | [Slide]() | 
 | 22th March, 2023 | []() | [Gijun Park]() | [Slide]() | 
 | 29th March, 2023 | [Word Embedding](https://arxiv.org/abs/1301.3781) | [Yongshin Kim](https://github.com/yong-shin) | [Slide](https://docs.google.com/presentation/d/1A983J-PIrmRCsKLU-UUurGLyoTD7u6Jv43u6Z45Azt8/edit#slide=id.ga6b09fafa8_0_5) | 
-| 29th March, 2023 | []() | [Sangyong Lee]() | [Slide]() | 
+| 5th April, 2023 | []() | [Sangyong Lee]() | [Slide]() | 
