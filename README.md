@@ -11,3 +11,4 @@
 | 22th March, 2023 | []() | [Gijun Park]() | [Slide]() | 
 | 29th March, 2023 | [Word Embedding](https://arxiv.org/abs/1301.3781) | [Yongshin Kim](https://github.com/yong-shin) | [Slide](https://docs.google.com/presentation/d/1A983J-PIrmRCsKLU-UUurGLyoTD7u6Jv43u6Z45Azt8/edit#slide=id.ga6b09fafa8_0_5) | 
 | 5th April, 2023 | [USAD: UnSupervised Anomaly Detection on Multivariate Time Series](https://dl.acm.org/doi/pdf/10.1145/3394486.3403392) | [Sangyong Lee](https://github.com/SYLee1996) | [Slide](https://docs.google.com/presentation/d/1cyDF4LTI3pcCKGGVrH-P4vKRRMnd_dGQQ3s8nr-cQGc/edit) | 
+| 12th April, 2023 | TS2Vec: Towards Universal Representation of Time Series(https://arxiv.org/abs/2106.10466) | [JiHyun Kim](https://github.com/hijyun) | [Slide](https://docs.google.com/presentation/d/1k-UQV-1tWtlzYnlYEhxaMrKCT8zpdEpf/edit?usp=sharing&ouid=113230354598330068546&rtpof=true&sd=true) |
